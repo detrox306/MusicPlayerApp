@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "Primera versión del reproductor de música"
+git remote add origin https://github.com/detrox306/MusicPlayerApp.git
+git push -u origin main
